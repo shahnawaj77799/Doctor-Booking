@@ -1,0 +1,14 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "stname": "Shahnawaz",
+      "location": "bhopal",
+      "doctortype": "dentist",
+      "diseases": "keeda",
+      "date": "12",
+      "time": "34"
+    }
+    
+  ]
+}
